@@ -24,5 +24,6 @@ return a * b;
 /* Funcion esPar (se fija si es par)*/
 
 int esPar(int n) {
-    return (n % 2) == 0;
+    return (n % 2) == 0; /* version main */
 }
+
