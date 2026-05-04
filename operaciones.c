@@ -17,7 +17,7 @@ int restar(int a, int b) {
 int multiplicar(int a, int b) {
 /* TODO: implementar */
 
-return a * b; // Devuelve el resultado de multiplicar el integrer a por el b
+return a * b;
 
 }
 
@@ -25,9 +25,4 @@ return a * b; // Devuelve el resultado de multiplicar el integrer a por el b
 
 int esPar(int n) {
     return (n % 2) == 0;
-}
-
-
-int dividir(int a, int b) {
-    return a - b; /* bug intencional */
 }
