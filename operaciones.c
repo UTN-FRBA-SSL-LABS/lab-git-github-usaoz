@@ -6,13 +6,13 @@ int sumar(int a, int b) {
     return a + b;
 }
 
-/* Funcion restas */
+/* Funcion restar (resta)*/
 
 int restar(int a, int b) {
     return a - b;
 }
 
-/* Funcion multiplicar*/
+/* Funcion multiplicar (multiplica)*/
 
 int multiplicar(int a, int b) {
 /* TODO: implementar */
@@ -21,7 +21,7 @@ return a * b;
 
 }
 
-/* Funcion esPar */
+/* Funcion esPar (se fija si es par)*/
 
 int esPar(int n) {
     return (n % 2) == 0;
