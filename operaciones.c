@@ -1,12 +1,8 @@
 #include "operaciones.h"
 
-/* Funcion sumar ya implementada, referencia de estilo */
-
 int sumar(int a, int b) {
     return a + b;
 }
-
-/* Funcion restar (resta)*/
 
 int restar(int a, int b) {
     return a - b;
@@ -26,4 +22,6 @@ return a * b;
 int esPar(int n) {
     return (n % 2) == 0; /* version main */
 }
+
+
 
