@@ -101,49 +101,49 @@
     {
       "name": "C15. P1: concepto de branches",
       "setup": "",
-      "run": "grep -q 'RESPUESTA_P1=b' readme.md",
+      "run": "grep -q 'RESPUESTA_P1=b' README.md",
       "input": "", "output": "", "comparison": "included",
       "timeout": 5, "points": 3
     },
     {
       "name": "C16. P2: flujo de review",
       "setup": "",
-      "run": "grep -q 'RESPUESTA_P2=b' readme.md",
+      "run": "grep -q 'RESPUESTA_P2=b' README.md",
       "input": "", "output": "", "comparison": "included",
       "timeout": 5, "points": 3
     },
     {
       "name": "C17. P3: revert vs reset",
       "setup": "",
-      "run": "grep -q 'RESPUESTA_P3=c' readme.md",
+      "run": "grep -q 'RESPUESTA_P3=c' README.md",
       "input": "", "output": "", "comparison": "included",
       "timeout": 5, "points": 3
     },
     {
       "name": "C18. P4: implementaciones de esPar",
       "setup": "",
-      "run": "grep -q 'RESPUESTA_P4=b' readme.md",
+      "run": "grep -q 'RESPUESTA_P4=b' README.md",
       "input": "", "output": "", "comparison": "included",
       "timeout": 5, "points": 3
     },
     {
       "name": "C19. P5: commits atomicos",
       "setup": "",
-      "run": "grep -q 'RESPUESTA_P5=c' readme.md",
+      "run": "grep -q 'RESPUESTA_P5=c' README.md",
       "input": "", "output": "", "comparison": "included",
       "timeout": 5, "points": 3
     },
     {
       "name": "C20. P6: fetch vs pull",
       "setup": "",
-      "run": "grep -q 'RESPUESTA_P6=b' readme.md",
+      "run": "grep -q 'RESPUESTA_P6=b' README.md",
       "input": "", "output": "", "comparison": "included",
       "timeout": 5, "points": 3
     },
     {
       "name": "C21. P7: descripcion de PR",
       "setup": "",
-      "run": "grep -q 'RESPUESTA_P7=c' readme.md",
+      "run": "grep -q 'RESPUESTA_P7=c' README.md",
       "input": "", "output": "", "comparison": "included",
       "timeout": 5, "points": 3
     }

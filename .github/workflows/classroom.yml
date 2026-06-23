@@ -5,7 +5,7 @@ on:
     branches: [ "**" ]
     paths:
       - "operaciones.c"
-      - "readme.md"
+      - "README.md"
 
 permissions:
   checks: write
@@ -139,37 +139,37 @@ jobs:
       - name: "C15. P1: concepto de branches"
         id: c15
         continue-on-error: true
-        run: grep -q 'RESPUESTA_P1=b' readme.md
+        run: grep -q 'RESPUESTA_P1=b' README.md
 
       - name: "C16. P2: flujo de review"
         id: c16
         continue-on-error: true
-        run: grep -q 'RESPUESTA_P2=b' readme.md
+        run: grep -q 'RESPUESTA_P2=b' README.md
 
       - name: "C17. P3: revert vs reset"
         id: c17
         continue-on-error: true
-        run: grep -q 'RESPUESTA_P3=c' readme.md
+        run: grep -q 'RESPUESTA_P3=c' README.md
 
       - name: "C18. P4: implementaciones de esPar"
         id: c18
         continue-on-error: true
-        run: grep -q 'RESPUESTA_P4=b' readme.md
+        run: grep -q 'RESPUESTA_P4=b' README.md
 
       - name: "C19. P5: commits atomicos"
         id: c19
         continue-on-error: true
-        run: grep -q 'RESPUESTA_P5=c' readme.md
+        run: grep -q 'RESPUESTA_P5=c' README.md
 
       - name: "C20. P6: fetch vs pull"
         id: c20
         continue-on-error: true
-        run: grep -q 'RESPUESTA_P6=b' readme.md
+        run: grep -q 'RESPUESTA_P6=b' README.md
 
       - name: "C21. P7: descripcion de PR"
         id: c21
         continue-on-error: true
-        run: grep -q 'RESPUESTA_P7=c' readme.md
+        run: grep -q 'RESPUESTA_P7=c' README.md
 
       # ── Puntaje final ──────────────────────────────────────────────
 
