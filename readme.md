@@ -3,7 +3,6 @@
 
 ## Antes de empezar
 
-
 ### ¿Por qué Git? ¿Por qué hacerlo bien?
 
 En proyectos de software real, raramente trabajás solo. Un equipo puede tener desde dos personas hasta cientos de desarrolladores modificando el mismo código al mismo tiempo. Sin una herramienta de control de versiones, coordinar ese trabajo es caótico: ¿quién cambió qué? ¿cuándo? ¿por qué? ¿cómo volvemos a la versión que funcionaba?
